@@ -16,7 +16,7 @@ const Checkout = () => {
     const sum = cart.reduce(reducer,0);
     return sum;
   }
-  
+
   return (
     <div className="Checkout">
       <div className="Checkout-content">
