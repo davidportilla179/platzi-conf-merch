@@ -14,6 +14,8 @@
   "author": "David Portilla <davidportilla179@hotmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@react-google-maps/api": "^2.5.0",
+    "axios": "^0.23.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-paypal-button-v2": "^2.6.3",
